@@ -6,7 +6,7 @@ Device configuration for Xiaomi Redmi 5 (rosy)
 Basic   | Spec Sheet
 -------:|:----------
 CPU     | 8x ARM Cortex A53, 1.8GHz
-Chipset | Qualcomm Snapdragon 450
+Chipset | Qualcomm Snapdragon 450 (Msm8953)
 GPU     | Adreno 506, Full HD 1080p 60fps
 ROM     | 16/32GB
 RAM     | 2/3/4GB
